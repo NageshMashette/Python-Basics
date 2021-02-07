@@ -6,6 +6,10 @@
 - bool
 - complex
 - string
+- list
+- tuple
+- dictionary
+- set
 
 ### Operators
 ### Keywords
